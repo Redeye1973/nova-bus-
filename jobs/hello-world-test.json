@@ -1,1 +1,0 @@
-{"id":"hello-world-test","type":"shell","payload":{"cmd":"echo hello world from Claude via git-bus"}}

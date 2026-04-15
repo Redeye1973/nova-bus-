@@ -1,0 +1,11 @@
+{
+  "id": "hello-world-test",
+  "type": "shell",
+  "ts": "2026-04-15T21:45:39.975760+00:00",
+  "result": {
+    "ok": true,
+    "exit": 0,
+    "stdout": "hello world from Claude via git-bus\n",
+    "stderr": ""
+  }
+}
