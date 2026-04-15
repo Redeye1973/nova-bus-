@@ -1,8 +1,0 @@
-{
-  "id": "test-write-20260415233622",
-  "payload": {
-    "path": "C:\\NOVA\\nova-bus\\results\\agent-test-output.txt",
-    "content": "hello from nova-git-bus 2026-04-15T23:36:22.1626744+02:00"
-  },
-  "type": "write_file"
-}
