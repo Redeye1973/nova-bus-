@@ -1,7 +1,0 @@
-{
-  "id": "test-shell-20260415233759",
-  "type": "shell",
-  "payload": {
-    "cmd": "echo git-bus-ok > C:/NOVA/nova-bus/results/test-shell-20260415233759-shell.txt"
-  }
-}
